@@ -96,7 +96,7 @@ The comparison tables in the code output illustrate the differences between the 
 
 ![Message Perspectives Table](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/message_compare.jpg)
 
-## Conclusion
+## Trade-off Considerations
 
 This code provides a practical demonstration of various code obfuscation techniques and their impact on code analysis and reverse engineering. While obfuscation can offer benefits in protecting code and intellectual property, it is essential to consider the potential drawbacks, such as increased complexity, performance overhead, and the challenges it poses for legitimate analysis by security professionals.
 
