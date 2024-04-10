@@ -26,45 +26,61 @@ It is crucial to weigh the trade-offs between benefits and drawbacks of obfuscat
 
 The code demonstrates the following eight obfuscation techniques:
 
-1. **Name Obfuscation**
+**1. Name Obfuscation**
    - Description: Renaming variables, functions, and classes to meaningless names.
    - Anti-Analysis Strengths: Makes the code harder to understand and follow.
    - Reason for Use: Protects intellectual property and deters reverse engineering.
+     
+![Name Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/name_obf.jpg)
 
-2. **Control Flow Obfuscation**
+**2. Control Flow Obfuscation**
    - Description: Modifying the control flow with dummy code, opaque predicates, jump tables, etc.
    - Anti-Analysis Strengths: Makes the logic harder to follow and analyze.
    - Reason for Use: Protects proprietary algorithms and hinders reverse engineering.
+     
+![Control Flow Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/control_obf.jpg)
 
-3. **String Encryption**
+**3. String Encryption**
    - Description: Encrypting string literals and decrypting them at runtime.
    - Anti-Analysis Strengths: Hides sensitive strings and messages.
    - Reason for Use: Protects sensitive data and evades string-based analysis.
+     
+![String Encryption Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/string_obf.jpg)
 
-4. **Packing/Compression**
+**4. Packing/Compression**
    - Description: Compressing code and data into a packed format and decompressing at runtime.
    - Anti-Analysis Strengths: Hinders static analysis and reverse engineering.
    - Reason for Use: Protects intellectual property and reduces file size.
+     
+![Packing/Compression Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/pack_obf.jpg)
 
-5. **Virtualization/Interpretation**
+**5. Virtualization/Interpretation**
    - Description: Converting code to bytecode for a custom virtual machine or interpreter.
    - Anti-Analysis Strengths: Makes static analysis more difficult and hinders debugging.
    - Reason for Use: Protects proprietary algorithms and deters reverse engineering.
+     
+![Virtualization/Interpretation Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/virt_obf.jpg)
 
-6. **Junk Code Insertion**
+**6. Junk Code Insertion**
    - Description: Adding non-functional code that doesn't affect the logic.
    - Anti-Analysis Strengths: Makes analysis harder and increases complexity.
    - Reason for Use: Hinders reverse engineering and deters tampering.
+     
+![Junk Code Insertion Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/junk_obf.jpg)
 
-7. **Opaque Predicates**
+**7. Opaque Predicates**
    - Description: Adding complex conditionals that always evaluate to the same value.
    - Anti-Analysis Strengths: Makes static analysis difficult and hinders understanding.
    - Reason for Use: Protects proprietary algorithms and deters reverse engineering.
+     
+![Opaque Predicates Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/opaque_obf.jpg)
 
-8. **Self-Modifying Code**
+**8. Self-Modifying Code**
    - Description: Having the program modify its own instructions at runtime.
    - Anti-Analysis Strengths: Thwarts static analysis and complicates debugging.
    - Reason for Use: Hinders reverse engineering and evades static analysis-based detection.
+     
+![Self-Modifying Code Obfuscation](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/self_mod_obf.jpg)
 
 ## Alice, Eve, and Bob
 
@@ -77,6 +93,8 @@ The code simulates a scenario where:
 The code demonstrates how each obfuscation technique affects the message from the perspectives of Alice, Eve, and Bob. It shows how Eve sees the obfuscated message, while Bob is able to deobfuscate and retrieve the original message sent by Alice.
 
 The comparison tables in the code output illustrate the differences between the original message, the obfuscated message seen by Eve, and the deobfuscated message received by Bob for each obfuscation technique.
+
+![Message Perspectives Table](https://github.com/ericyoc/obfuscation_techniques_demo/blob/main/message_compare.jpg)
 
 ## Conclusion
 
