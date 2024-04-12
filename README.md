@@ -22,6 +22,8 @@ While obfuscation can provide benefits in terms of protecting code and deterring
 
 It is crucial to weigh the trade-offs between benefits and drawbacks of obfuscation and consider the specific use case and requirements before applying obfuscation techniques to their code.
 
+Xu, H., Zhou, Y., Ming, J. et al. Layered obfuscation: a taxonomy of software obfuscation techniques for layered security. Cybersecur 3, 9 (2020). https://doi.org/10.1186/s42400-020-00049-3
+
 ## Obfuscation Techniques
 
 The code demonstrates the following eight obfuscation techniques:
