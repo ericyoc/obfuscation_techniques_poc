@@ -27,6 +27,8 @@ Xu, H., Zhou, Y., Ming, J. et al. Layered obfuscation: a taxonomy of software ob
 
 URLhaus https://urlhaus.abuse.ch/statistics
 
+Any.Run https://any.run/malware-trends/
+
 ## Obfuscation Techniques
 
 The code demonstrates the following eight obfuscation techniques:
