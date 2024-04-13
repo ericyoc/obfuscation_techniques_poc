@@ -27,6 +27,8 @@ Xu, H., Zhou, Y., Ming, J. et al. Layered obfuscation: a taxonomy of software ob
 
 URLhaus https://urlhaus.abuse.ch/statistics
 
+Joe Sandbox https://www.joesandbox.com/analysispaged/0
+
 Any.Run https://any.run/malware-trends/
 
 ## Obfuscation Techniques
