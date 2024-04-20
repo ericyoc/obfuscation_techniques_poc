@@ -35,6 +35,9 @@ Joe Sandbox https://www.joesandbox.com/analysispaged/0
 
 Any.Run https://any.run/malware-trends/
 
+## Deobfuscation Tools ##
+https://github.com/hasherezade/malware_analysis/tree/master/trickbot
+
 ## Obfuscation Techniques
 
 The code demonstrates the following eight obfuscation techniques:
