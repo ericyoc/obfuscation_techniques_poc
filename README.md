@@ -118,3 +118,7 @@ You should carefully evaluate the trade-offs and assess the specific requirement
 Obfuscation should be used judiciously and in combination with other security measures, such as secure coding practices, encryption, and access controls, to provide a comprehensive security strategy. Regular security assessments and code reviews should also be conducted to identify and address any vulnerabilities or weaknesses in the obfuscated code.
 
 By understanding the strengths and limitations of obfuscation techniques, developers and security professionals can make informed decisions and adopt appropriate measures to protect their code while enabling necessary analysis and maintenance.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
