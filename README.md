@@ -40,6 +40,8 @@ https://github.com/hasherezade/malware_analysis/tree/master/trickbot
 
 https://github.com/danielbohannon/Invoke-Obfuscation#:~:text=Invoke%2DObfuscation%20is%20a%20PowerShell,PowerShell%20command%20and%20script%20obfuscator.
 
+https://github.com/hasherezade/malware_analysis/tree/master/trickbot
+
 ## Obfuscation Techniques
 
 The code demonstrates the following eight obfuscation techniques:
