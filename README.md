@@ -42,6 +42,9 @@ https://github.com/danielbohannon/Invoke-Obfuscation#:~:text=Invoke%2DObfuscatio
 
 https://github.com/hasherezade/malware_analysis/tree/master/trickbot
 
+## People
+https://www.thecyberyeti.com/
+
 ## Obfuscation Techniques
 
 The code demonstrates the following eight obfuscation techniques:
