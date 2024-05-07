@@ -46,6 +46,8 @@ https://github.com/hasherezade/malware_analysis/tree/master/trickbot
 
 https://github.com/DissectMalware
 
+https://intezer.com/blog/research/unraveling-malware-encryption-secrets/
+
 ## People
 https://www.thecyberyeti.com/
 
