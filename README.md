@@ -44,6 +44,8 @@ https://github.com/danielbohannon/Invoke-Obfuscation#:~:text=Invoke%2DObfuscatio
 
 https://github.com/hasherezade/malware_analysis/tree/master/trickbot
 
+https://github.com/DissectMalware
+
 ## People
 https://www.thecyberyeti.com/
 
