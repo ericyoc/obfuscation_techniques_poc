@@ -2,7 +2,7 @@
 
 This code demonstrates eight common code obfuscation techniques using a simple example of Alice sending a secret message to Bob, while Eve (an eavesdropper) attempts to intercept and read the message. The code showcases how each obfuscation technique affects the message from the perspectives of Alice, Eve, and Bob.
 
-## Motivating Article and Related Work
+## Motivating Articles and Related Work
 Xu, H., Zhou, Y., Ming, J. et al. Layered obfuscation: a taxonomy of software obfuscation techniques for layered security. Cybersecurity 3, 9 (2020). https://doi.org/10.1186/s42400-020-00049-3
 
 Bermejo Higuera J, Abad Aramburu C, Bermejo Higuera J-R, Sicilia Urban MA, Sicilia Montalvo JA. Systematic Approach to Malware Analysis (SAMA). Applied Sciences. 2020; 10(4):1360. https://doi.org/10.3390/app10041360
