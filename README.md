@@ -2,26 +2,6 @@
 
 This code demonstrates eight common code obfuscation techniques using a simple example of Alice sending a secret message to Bob, while Eve (an eavesdropper) attempts to intercept and read the message. The code showcases how each obfuscation technique affects the message from the perspectives of Alice, Eve, and Bob.
 
-## Significance of Understanding Obfuscation
-
-Understanding code obfuscation techniques is crucial for several reasons:
-
-1. Protecting intellectual property: Obfuscation helps prevent reverse engineering and unauthorized access to proprietary code.
-2. Hindering malware analysis: Malicious actors often employ obfuscation to evade detection and make their code more difficult to analyze.
-3. Ensuring code integrity: Obfuscation techniques can help prevent tampering and unauthorized modifications to the code.
-4. Enhancing software security: By making the code harder to understand and analyze, obfuscation adds an extra layer of security to software applications.
-
-## Potential Drawbacks of Obfuscation
-
-While obfuscation can provide benefits in terms of protecting code and deterring reverse engineering, it is important to consider the potential drawbacks as well:
-
-1. Increased complexity: Obfuscated code can be more complex and harder to maintain, debug, and update, especially for legitimate developers working on the codebase.
-2. Performance overhead: Some obfuscation techniques, such as virtualization or self-modifying code, can introduce performance overhead and slow down the execution of the code.
-3. False sense of security: Obfuscation should not be relied upon as the sole security measure. Determined attackers with sufficient time and resources may still be able to reverse engineer and understand the obfuscated code.
-4. Hindrance to legitimate analysis: Obfuscation can make it more difficult for security professionals and researchers to analyze the code for vulnerabilities, potential malware, or compliance with security standards.
-
-It is crucial to weigh the trade-offs between benefits and drawbacks of obfuscation and consider the specific use case and requirements before applying obfuscation techniques to their code.
-
 ## Motivating Article and Related Work
 Xu, H., Zhou, Y., Ming, J. et al. Layered obfuscation: a taxonomy of software obfuscation techniques for layered security. Cybersecurity 3, 9 (2020). https://doi.org/10.1186/s42400-020-00049-3
 
@@ -52,6 +32,26 @@ https://intezer.com/blog/research/unraveling-malware-encryption-secrets/
 
 ## People
 https://www.thecyberyeti.com/
+
+## Significance of Understanding Obfuscation
+
+Understanding code obfuscation techniques is crucial for several reasons:
+
+1. Protecting intellectual property: Obfuscation helps prevent reverse engineering and unauthorized access to proprietary code.
+2. Hindering malware analysis: Malicious actors often employ obfuscation to evade detection and make their code more difficult to analyze.
+3. Ensuring code integrity: Obfuscation techniques can help prevent tampering and unauthorized modifications to the code.
+4. Enhancing software security: By making the code harder to understand and analyze, obfuscation adds an extra layer of security to software applications.
+
+## Potential Drawbacks of Obfuscation
+
+While obfuscation can provide benefits in terms of protecting code and deterring reverse engineering, it is important to consider the potential drawbacks as well:
+
+1. Increased complexity: Obfuscated code can be more complex and harder to maintain, debug, and update, especially for legitimate developers working on the codebase.
+2. Performance overhead: Some obfuscation techniques, such as virtualization or self-modifying code, can introduce performance overhead and slow down the execution of the code.
+3. False sense of security: Obfuscation should not be relied upon as the sole security measure. Determined attackers with sufficient time and resources may still be able to reverse engineer and understand the obfuscated code.
+4. Hindrance to legitimate analysis: Obfuscation can make it more difficult for security professionals and researchers to analyze the code for vulnerabilities, potential malware, or compliance with security standards.
+
+It is crucial to weigh the trade-offs between benefits and drawbacks of obfuscation and consider the specific use case and requirements before applying obfuscation techniques to their code.
 
 ## Obfuscation Techniques
 
